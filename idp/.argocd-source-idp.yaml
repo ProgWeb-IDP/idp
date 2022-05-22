@@ -1,4 +1,4 @@
 kustomize:
   images:
   - lazandrei19/pweb-api:923721f8ddffc0f0819c174ec9d9859ef6fa9020
-  - lazandrei19/pweb-ui:41c8a5e0f75721146bf993e3bfaae08f7830cb0e
+  - lazandrei19/pweb-ui:eda7317c544b7863dea008210cd0c5cb6fdd9276
