@@ -1,0 +1,4 @@
+kustomize:
+  images:
+  - lazandrei19/pweb-api:48d455394551f7f2a294a65cb7318752cf8eddff
+  - lazandrei19/pweb-ui:1.4
